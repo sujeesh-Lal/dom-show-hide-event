@@ -1,6 +1,6 @@
 {
   "name": "dom-show-hide-observer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npm package for observing the dom show hide events.",
   "main": "index.js",
   "scripts": {
