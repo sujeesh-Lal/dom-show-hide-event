@@ -1,0 +1,20 @@
+{
+  "name": "domShowHideObserver",
+  "version": "1.0.0",
+  "description": "An npm package for observing the dom show hide events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Show Hide events",
+    "Dom Show events",
+    "Dom Hide events",
+    "Mutation Observer",
+    "Dom Changes Events",
+    "Dom Observer"
+  ],
+  "author": "Sujeesh Lal",
+  "license": "MIT"
+}
+
