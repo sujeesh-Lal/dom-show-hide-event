@@ -1,4 +1,4 @@
-var domObserver = function () {
+var domShowHideObserver = function () {
     var self = this;
 
     self.initialize = function () {
@@ -112,3 +112,5 @@ var domObserver = function () {
 
     return self.initialize();
 }
+
+module.exports = domShowHideObserver;
