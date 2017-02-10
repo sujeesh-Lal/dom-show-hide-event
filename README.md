@@ -10,27 +10,27 @@ This package uses Javascript Mutation Observer class for triggering the show hid
 
 1. Using node
 
-Create the instance of dom show hide observer
+Install the package
 
-```
-npm install dom-show-hide-observer
+    ```
+    npm install dom-show-hide-observer
 
-```
-Import module using below code
+    ```
+   Import module using below code
 
-```
-import DO from 'dom-show-hide-observer'
+    ```
+    import DO from 'dom-show-hide-observer'
 
-```
+    ```
 
 2. Others
 
-Create instance of the library
+    Create instance of the library
 
-```
-var DO = new domShowHideObserver();
+    ```
+    var DO = new domShowHideObserver();
 
-```
+    ```
 
 ### Listening
 
